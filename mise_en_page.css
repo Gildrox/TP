@@ -1,0 +1,51 @@
+.couleurs { 
+    background-image : linear-gradient(135deg, #EDF2F4 0%, #aebabe 50%, #EDF2F4 100%);
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #ef233c;
+    font-size: 5em;
+    font-weight: bold;
+    font-family: Impact;
+}
+
+h3 {
+    color: #2b2d42;
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: underline dashed;
+}
+
+div {
+    border-width:1px;
+    border-style:solid;
+}
+
+section img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width:1px;
+    border-style:solid;
+    border: color #8d99ae;
+}
+
+footer {
+    float: right;
+}
+
+ul {
+    list-style:none;
+}
+
+.actif {
+    color:#D90429;
+}
+
+#link { color: #D90429; }
+#link:visited { color: gray}
+#link:hover { color: #2B2D42; }
